@@ -1,0 +1,477 @@
+#logo {
+    font-size: 20px;
+    color: green;
+    font-weight: bold;
+    float: left;
+    margin-left: 50px;
+    margin-top: 7px;
+}
+
+#menu {
+    width: 400px;
+    height: 40px;
+    float: right;
+
+}
+
+#dangnhap {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    float: right;
+    margin-right: 50px;
+}
+
+#chu {
+    font-size: 12px;
+    width: 80px;
+    height: 50px;
+    float: left;
+    margin-top: 10px;
+}
+
+#chu1 {
+    font-size: 12px;
+    width: 60px;
+    height: 20px;
+    float: left;
+    margin-top: 10px;
+}
+
+#chu2 {
+    font-size: 12px;
+    width: 70px;
+    height: 20px;
+    float: left;
+    margin-top: 10px;
+}
+
+#menu1 {
+    font-size: 15px;
+    font-weight: bold;
+    width: 60px;
+    float: left;
+    margin-top: 7px;
+}
+
+#hinh {
+    width: 100%;
+    height: 500px;
+    background-color: gray;
+    float: left;
+    margin-top: 5px;
+}
+
+#hinh1 {
+    width: 100%;
+    height: 500px;
+}
+
+#hinhtrong {
+    width: 50%;
+    margin: auto;
+    height: 50%;
+    margin-top: 200px;
+    position: absolute;
+    top: 0;
+    left: 400px;
+}
+
+#khungchu {
+    color: white;
+    font-size: 15px;
+    width: 250px;
+    margin: auto;
+}
+
+#khungchu1 {
+    width: 450px;
+    color: white;
+    font-size: 50px;
+    margin: auto;
+    font-weight: bold;
+}
+
+#duongke {
+    width: 600px;
+    height: 5px;
+    margin: auto;
+    background-color: white;
+}
+
+#khungchu2 {
+    color: white;
+    font-size: 17px;
+    margin: auto;
+    width: 400px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#nut {
+    width: 200px;
+    height: 50px;
+    border-radius: 15px;
+    background-color: green;
+    margin: auto;
+    margin-top: 10px;
+}
+
+#nutchu {
+    width: 100px;
+    font-size: 25px;
+    color: white;
+    float: left;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+#khunggiua {
+    width: 50%;
+    margin-left: 400px;
+    height: 330px;
+    float: left;
+}
+
+#khungchugiua {
+    font-size: 20px;
+    width: 290px;
+    margin: auto;
+    color: green;
+}
+
+#timkiem {
+    width: 500px;
+    height: 30px;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: gray;
+    margin-left: 130px;
+    margin-top: 10px;
+}
+
+#khungchugiua1 {
+    font-size: 20px;
+    width: 150px;
+    font-weight: bold;
+    margin: auto;
+    margin-top: 20px;
+    color: green;
+}
+
+#duongkegiua {
+    width: 300px;
+    height: 3px;
+    margin: auto;
+    margin-top: 20px;
+    background-color: gray;
+}
+
+#khungchugiua2 {
+    margin-top: 10px;
+    width: 300px;
+    height: 100px;
+    float: left;
+}
+
+#khungchugiua3 {
+    margin-top: 10px;
+    width: 300px;
+    height: 100px;
+    float: right;
+}
+
+#chutrong {
+    font-size: 15px;
+    color: green;
+    font-weight: bold;
+}
+
+#chutrong1 {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#chutrong2 {
+    font-size: 10px;
+    font-size: 10px;
+}
+
+#khunggiua1 {
+    width: 100%;
+    height: 650px;
+    float: left;
+    background-color: E1DEDE;
+}
+
+#khunggiua3 {
+    width: 950px;
+    height: 500px;
+    margin: auto;
+}
+
+#chugiua {
+    font-size: 20px;
+    width: 165px;
+    font-weight: bold;
+    margin: auto;
+    margin-top: 20px;
+    color: green;
+}
+
+#duongkegiua {
+    width: 300px;
+    height: 3px;
+    margin: auto;
+    margin-top: 20px;
+    background-color: gray;
+}
+
+#khunghinh1 {
+    width: 300px;
+    height: 250px;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+#khunghinh2 {
+    width: 300px;
+    height: 125px;
+    background-color: blue;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+
+#chuhinh {
+    font-size: 15px;
+    width: 150px;
+    margin-left: 15px;
+    margin-top: 5px;
+    color: green;
+    font-weight: bold;
+}
+
+#chuhinh1 {
+    font-size: 10px;
+    width: 200px;
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+#nut1 {
+    width: 60px;
+    height: 20px;
+    border-radius: 15px;
+    background-color: green;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+#nutchu1 {
+    width: 40px;
+    font-size: 6px;
+    color: white;
+    float: left;
+    margin-top: 7px;
+    margin-left: 13px;
+}
+
+#khunggiua2 {
+    width: 50%;
+    margin-left: 400px;
+    height: 500px;
+    float: left;
+}
+
+#khungtrai {
+    width: 50%;
+    height: 500px;
+    float: left;
+    margin-top: 10px;
+}
+
+#khungtrai1 {
+    width: 100%;
+    height: 150px;
+    float: left;
+}
+
+#khunghinhtrai {
+    width: 350px;
+    height: 100px;
+    background-color: yellow;
+    border-radius: 10px;
+}
+
+#chutrai {
+    font-weight: bold;
+    color: green;
+}
+
+#chutrai1 {
+    font-size: 10px;
+    color: gray;
+}
+
+#khungphai {
+    width: 50%;
+    height: 200px;
+    float: left;
+    margin-top: 10px;
+    background-color: rgb(0, 106, 255);
+}
+
+#khungphai1 {
+    width: 50%;
+    height: 200px;
+    float: left;
+    margin-top: 10px;
+    background-color: rgb(0, 106, 255);
+}
+
+#hinhphai1 {
+    width: 100%;
+    height: 200px;
+    float: left;
+    background-color: rgb(255, 111, 0);
+}
+
+#hinhphai2 {
+    width: 100%;
+    height: 200px;
+    float: left;
+    margin-top: 10px;
+    background-color: rgb(255, 111, 0);
+}
+
+#khungchuphai {
+    width: 375px;
+    height: 80px;
+    float: left;
+    background-color: rgba(0, 128, 0, 0.645);
+    position: absolute;
+    margin-top: 120px;
+}
+
+#chuphai {
+    margin-left: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+}
+
+#chuphai1 {
+    margin-left: 10px;
+    font-size: 9.5px;
+    color: white;
+}
+
+#chuphai2 {
+    margin-left: 10px;
+    font-size: 9.5px;
+    color: gray;
+}
+
+#duongkegiua1 {
+    width: 300px;
+    height: 3px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: gray;
+}
+
+#gioithieu {
+    background-color: 545454;
+    width: 100%;
+    height: 100px;
+    float: left;
+}
+
+#logo1 {
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+    float: left;
+    margin-top: 10px;
+    margin-left: 100px;
+}
+
+#khungchucuoi {
+    width: 80px;
+    height: 80px;
+    margin-top: 10px;
+    margin-left: 50px;
+    float: left;
+}
+
+#khungchucuoi1 {
+    width: 80px;
+    height: 80px;
+    margin-top: 10px;
+    float: left;
+}
+
+#chucuoi {
+    font-size: 15px;
+    color: white;
+}
+
+#cuoiphai {
+    width: 200px;
+    height: 100px;
+    float: right;
+}
+
+#mangxh {
+    width: 200px;
+    height: 50px;
+    float: right;
+    margin-top: 20px;
+}
+
+#khungcuoi {
+    width: 500px;
+    height: 100px;
+    float: left;
+}
+
+#timkiem1 {
+    width: 300px;
+    height: 30px;
+    float: left;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: gray;
+    margin-left: 130px;
+    margin-top: 10px;
+}
+
+#chutk {
+    width: 100px;
+    float: left;
+    color: gray;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+#chutk1 {
+    width: 20px;
+    margin-right: 5px;
+    margin-top: 5px;
+    float: right;
+}
+
+#chugt {
+    width: 300px;
+    height: 30px;
+    color: white;
+    margin-left: 130px;
+    margin-top: 10px;
+}
